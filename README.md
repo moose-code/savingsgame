@@ -1,3 +1,11 @@
+# Its up to you now
+
+We have created the basics of the game in the stream https://www.twitch.tv/moose_code
+
+Now its up to you to implement the withdraw function so all the tests pass! Please go ahead and give it a bash and open a pull request!
+
+Chat to us on the wildcards telegram https://t.me/wildcardsworld if you need help or have any questions.
+
 # Welcome to the game of savings
 
 Game of savings is a simple smart contract that helps users learn some of the most important concepts of developing in Solidity, to deploy awesome and safe smart contracts.
